@@ -1,0 +1,24 @@
+{
+  "name": "install",
+  "version": "1.0.0",
+  "description": "install",
+  "keywords": [
+    "cordova",
+    "phonegap",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "android",
+    "ios",
+    "ionic"
+  ],
+  "author": {
+    "name": "weelion",
+    "url": "solidfoundationwebdev.com"
+  },
+  "license": "Apache 2.0",
+  "dependencies": {
+    "cordova": "*"
+  },
+  "devDependencies": {}
+}
