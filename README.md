@@ -15,7 +15,7 @@ download is compatible with Cordova Plugman, compatible with PhoneGap 3.0 CLI, h
     $ phonegap local plugin add https://github.com/SherlockShi/phonegap-plugin-install.git
 or
 
-    $ ionic cordova plugin add https://github.com/SherlockShi/phonegap-plugin-install.git
+    $ ionic cordova plugin add https://github.com/SherlockShi/phonegap-plugin-install.git
 
 
 run this command afterwards (backup your project first!):
